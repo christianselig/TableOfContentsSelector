@@ -2,7 +2,7 @@
 
 ![Table of Contents GIF](table-of-contents-new.gif)
 
-Are you familiar with `UITableView`'s `sectionIndexTitles` API? The little alphabet on the side of some tables for quickly jumping to sections.
+Are you familiar with `UITableView`'s `sectionIndexTitles` API? The little alphabet on the side of some tables for quickly jumping to sections? [Here's a tutorial if not](https://www.appcoda.com/ios-programming-index-list-uitableview/).
 
 This is a view very similar to that (very little in the way of originality here, folks) but offers a few nice changes I was looking for, so I thought I'd open source it in case anyone else wanted it too.
 
