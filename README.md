@@ -1,6 +1,6 @@
 # 📖 TableOfContentsSelector
 
-![Table of Contents GIF](table-of-contents.gif)
+![Table of Contents GIF](table-of-contents-new.gif)
 
 Are you familiar with `UITableView`'s `sectionIndexTitles` API? The little alphabet on the side of some tables for quickly jumping to sections.
 
