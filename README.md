@@ -18,7 +18,7 @@ The [UITableView API](https://www.appcoda.com/ios-programming-index-list-uitable
 - 🏂 Let's be honest, a slightly better name. The Apple engineers created a beautiful API but I can never remember what it's called to Google. `sectionIndexTitles` doesn't roll off the tongue. 
 - 🌝 Haha moon emoji
 
-# How to Install
+### How to Install
 
 No package managers here. Just drag and drop `TableOfContentsSelector.swift` into your Xcode project. You own this code now. You have to [raise it as your own](https://i.imgur.com/LqdUwQq.jpg).
 
