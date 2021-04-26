@@ -6,7 +6,7 @@ Are you familiar with `UITableView`'s `sectionIndexTitles` API? The little alpha
 
 This is a view very similar to that (very little in the way of originality here, folks) but offers a few nice changes I was looking for, so I thought I'd open source it in case anyone else wanted it too.
 
-# Benefits
+### Benefits
 
 The [UITableView API](https://www.appcoda.com/ios-programming-index-list-uitableview/) is great, and you should try to stick with built-in components when you can avoid adding in unnecessary dependencies. That being said, here are the advantages this brought me:
 
@@ -22,7 +22,7 @@ The [UITableView API](https://www.appcoda.com/ios-programming-index-list-uitable
 
 No package managers here. Just drag and drop `TableOfContentsSelector.swift` into your Xcode project. You own this code now. You have to [raise it as your own](https://i.imgur.com/LqdUwQq.jpg).
 
-# How to Use
+### How to Use
 
 Create your view.
 
@@ -72,6 +72,6 @@ func beganSelection() {}
 func endedSelection() {}
 ```
 
-# License
+### License
 
 MIT
